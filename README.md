@@ -1,6 +1,7 @@
-# Proyecto Login Html, Css, Javascript
-Html base
+# Login Template
 
-CSS design
+## Made with HTMl, CSS and JAVASCRIPT
 
-Javascript Backend
+### HTML: *Structure*
+### CSS: *Design*
+### JAVASCRIPT: *Interactivity*
